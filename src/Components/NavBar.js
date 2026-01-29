@@ -9,6 +9,9 @@ class Navbar extends Component {
           <a className="navbar-brand" href="#">
             Navbar
           </a>
+          <a className="navbar-brand" href="##################">
+            Navbar
+          </a>
           <button
             className="navbar-toggler"
             type="button"
